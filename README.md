@@ -1,2 +1,0 @@
-# freshprince
-Fresh Prince project
